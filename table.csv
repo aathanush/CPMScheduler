@@ -1,0 +1,13 @@
+,Activity,Predecessors,Duration
+0,St,,0
+1,A,St,3
+2,A,St,4
+3,A,St,6
+4,B,St,4
+5,C,A,3
+6,D,B,4
+7,E,B,3
+8,F,St,10
+9,G,E F,3
+10,H,C D,2
+11,End,G H,0
